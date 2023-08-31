@@ -1,4 +1,4 @@
-[listEx1](<!DOCTYPE html>
+[listEx1]<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
@@ -29,7 +29,7 @@
     </tr>
   </table>
 </body>
-</html>)
+</html>
 <hr>
 [listEx2](file:///D:/homework/tableEx/tableEx2.html)
 <hr>
