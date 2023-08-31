@@ -38,7 +38,7 @@
 </head>
 <body>
   <table border="1">
-    <caption>여름이 온다 그림책 안내</caption>
+    <h1>여름이 온다 그림책 안내</h1>
     <tr>
       <th colspan="3">그림책 소개</th>
     </tr>
@@ -71,7 +71,7 @@
 </head>
 <body>
   <table border="1">
-    <caption>백종원의 '불고기 샌드위치' 레시피</caption>
+    <caption><h1>백종원의 '불고기 샌드위치' 레시피</h1></caption>
     <tr>
       <th colspan="2">레시피</th>
     </tr>
