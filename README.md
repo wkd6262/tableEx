@@ -78,28 +78,28 @@
       <th colspan="2">레시피</th>
     </tr>
     <tr>
-      <th rowspan="2"><img src="img02.jpg" alt=""></th>
+      <th rowspan="2"><img src="https://github.com/wkd6262/tableEx/blob/main/images/img02.jpg?raw=true" alt=""></th>
       <th>조리방법 1</th>
     </tr>
     <tr>
       <td>식빵에 상추를 원하는 만큼 푸짐하게 덮어주세유</td>
     </tr>
     <tr>
-      <th rowspan="2"><img src="img03.jpg" alt=""></th>
+      <th rowspan="2"><img src="https://github.com/wkd6262/tableEx/blob/main/images/img03.jpg?raw=true" alt=""></th>
       <th>조리방법 2</th>
     </tr>
     <tr>
       <td>마요네즈를 듬뿍 올려유</td>
     </tr> 
     <tr>
-      <th rowspan="2"><img src="img04.jpg" alt=""></th>
+      <th rowspan="2"><img src="https://github.com/wkd6262/tableEx/blob/main/images/img04.jpg?raw=true" alt=""></th>
       <th>조리방법 3</th>
     </tr>
     <tr>
       <td>그 위로 불고기를 싸악 올리구</td>
     </tr> 
     <tr>
-      <th rowspan="2"><img src="img05.jpg" alt=""></th>
+      <th rowspan="2"><img src="https://github.com/wkd6262/tableEx/blob/main/images/img05.jpg?raw=true" alt=""></th>
       <th>조리방법 4</th>
     </tr>
     <tr>
