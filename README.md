@@ -48,7 +48,7 @@
       <th colspan="3">여름이 온다</th>
     </tr>
     <tr>
-      <td rowspan="3"><a href="https://www.yes24.com/Product/Goods/102965090" target="_blank"><img src="img.jpg" alt=""></a></td>
+      <td rowspan="3"><a href="https://www.yes24.com/Product/Goods/102965090" target="_blank"><img src="file:///D:/homework/tableEx/img.jpg" alt=""></a></td>
       <th>글</th>
       <td>이수지</td>
     </tr>
