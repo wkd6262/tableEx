@@ -38,7 +38,6 @@
   <title>테이블 연습2</title>
 </head>
 <body>
-  <h1>테이블 연습 2</h1>
   <table border="1">
     <caption>여름이 온다 그림책 안내</caption>
     <tr>
@@ -62,6 +61,50 @@
     </tr>
   </table>
 </body>
-</html>)
+</html>
 <hr>
-[listEx3](file:///D:/homework/tableEx/tableEx3.html)
+[listEx3]
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>테이블 연습3</title>
+</head>
+<body>
+  <table border="1">
+    <caption>백종원의 '불고기 샌드위치' 레시피</caption>
+    <tr>
+      <th colspan="2">레시피</th>
+    </tr>
+    <tr>
+      <th rowspan="2"><img src="img02.jpg" alt=""></th>
+      <th>조리방법 1</th>
+    </tr>
+    <tr>
+      <td>식빵에 상추를 원하는 만큼 푸짐하게 덮어주세유</td>
+    </tr>
+    <tr>
+      <th rowspan="2"><img src="img03.jpg" alt=""></th>
+      <th>조리방법 2</th>
+    </tr>
+    <tr>
+      <td>마요네즈를 듬뿍 올려유</td>
+    </tr> 
+    <tr>
+      <th rowspan="2"><img src="img04.jpg" alt=""></th>
+      <th>조리방법 3</th>
+    </tr>
+    <tr>
+      <td>그 위로 불고기를 싸악 올리구</td>
+    </tr> 
+    <tr>
+      <th rowspan="2"><img src="img05.jpg" alt=""></th>
+      <th>조리방법 4</th>
+    </tr>
+    <tr>
+      <td>다시 식빵으로 덮으면 끝!</td>
+    </tr>
+  </table>
+</body>
+</html>
